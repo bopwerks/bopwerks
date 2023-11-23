@@ -4,7 +4,7 @@ I'm a Catholic software engineer working in Boston 🇺🇸. Jesus Christ is my 
 
 - 🔭 I’m currently working on projects for [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - 🌱 I’m currently studying
-     - 🗣️ Languages: Spanish 🇲🇽 Latin ✍️
+     - 🗣️ Languages: Spanish 🇲🇽, Latin ✍️
      - 🖱️ Software: Express.js, React
      - 🎸 Instruments: Guitar
      - 📚 Books: The Bible ✝️
