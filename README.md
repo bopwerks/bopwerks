@@ -1,1 +1,26 @@
-I'm a Catholic ✝️ software engineer working in Boston and Montréal.
+### Hello 👋
+
+I'm a Catholic ✝️ software engineer 💻 working in Boston 🇺🇸 Jesus Christ is my Lord and Savior.
+
+- 🔭 I’m currently working on projects for (MIT Lincoln Laboratory)[https://www.ll.mit.edu/]
+- 🌱 I’m currently studying
+     - Languages: Spanish 🇲🇽 Latin ✍️
+     - Software: Express.js, React
+     - Instruments: Guitar 🎸
+     - Books: The Bible ✝️
+- 🤔 I’m looking for help with making my [omnino](https://github.com/bopwerks/omnino) windowing system robust
+- 💬 Ask me about the Catholic Church, or anything else
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
