@@ -4,10 +4,10 @@ I'm a Catholic ✝️ software engineer 💻 working in Boston 🇺🇸. Jesus C
 
 - 🔭 I’m currently working on projects for [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 - 🌱 I’m currently studying
-     - Languages: Spanish 🇲🇽 Latin ✍️
-     - Software: Express.js, React
-     - Instruments: Guitar 🎸
-     - Books: The Bible ✝️
+     - 🗣️ Languages: Spanish 🇲🇽 Latin ✍️
+     - 🖱️ Software: Express.js, React
+     - 🎸 Instruments: Guitar
+     - 📚 Books: The Bible ✝️
 - 🤔 I’m looking for help with making my [omnino](https://github.com/bopwerks/omnino) windowing system robust
 - 💬 Ask me about the Catholic Church, or anything else
 
