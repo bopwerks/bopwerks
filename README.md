@@ -7,9 +7,7 @@ I'm a Catholic software engineer working in Boston 🇺🇸. Jesus Christ is my 
      - 🗣️ Languages: Spanish 🇲🇽, Latin ✍️
      - 🖱️ Software: Express.js, React
      - 🎸 Instruments: Guitar
-     - 📚 Books: The Bible ✝️
 - 🤔 I’m looking for help with making my [omnino](https://github.com/bopwerks/omnino) windowing system robust
-- 💬 Ask me about the Catholic Church, or anything else
 
 <!--
 
